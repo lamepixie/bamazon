@@ -6,4 +6,4 @@ This assignment allows users to select items they wish to buy, and the desired q
 
 
 ## Program in action
-[Joellen Terranova's Bamazon Store](http://github.com/lamepixie/bamazon/videos/Bamazon_UCF_JLT.flv)
+[Joellen Terranova's Bamazon Store](https://www.youtube.com/watch?v=opx3uMZLAfA&feature=youtu.be)
