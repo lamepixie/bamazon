@@ -18,6 +18,7 @@
   "homepage": "https://github.com/lamepixie/bamazon#readme",
   "dependencies": {
     "inquirer": "^5.2.0",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "python3": "0.0.1"
   }
 }
